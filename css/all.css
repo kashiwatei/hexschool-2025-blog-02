@@ -390,7 +390,7 @@ article {
     color: #ffffff;
 }
 
-@media(max-width: 1200px) {
+@media(max-width: 1280px) {
     .banner1 .hero {
         width: 100%;
     }
